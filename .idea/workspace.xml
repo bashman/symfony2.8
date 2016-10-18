@@ -366,7 +366,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1476752714835</updated>
-      <workItem from="1476752716999" duration="8534000" />
+      <workItem from="1476752716999" duration="9121000" />
     </task>
     <task id="LOCAL-00001" summary="algunas rutas y pruebas">
       <created>1476762217423</created>
@@ -379,7 +379,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8534000" />
+    <option name="totallyTimeSpent" value="9121000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -392,7 +392,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="1920" height="1020" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19396552" sideWeight="0.49520382" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297362" sideWeight="0.49784482" order="6" side_tool="false" content_ui="tabs" />
