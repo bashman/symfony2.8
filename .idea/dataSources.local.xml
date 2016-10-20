@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal">
-    <data-source name="Sqlite (Xerial) - symfony28.db3" uuid="c63f6b61-c2a8-4f83-995d-d646c3f43ec6">
+    <data-source name="Sqlite (Xerial) - symfony28.sqlite" uuid="c63f6b61-c2a8-4f83-995d-d646c3f43ec6">
       <database-info product="SQLite" version="3.8.11" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" />
       <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
       <secret-storage>master_key</secret-storage>
